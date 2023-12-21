@@ -7,6 +7,7 @@
 
 
 import numpy as np
+import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
 plt.rcParams['figure.figsize'] = (7.0,5.0)
